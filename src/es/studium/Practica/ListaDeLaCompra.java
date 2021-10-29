@@ -7,7 +7,10 @@ import java.util.ArrayList;
 import java.util.List;
 
 
-
+/**
+ * @author clja1 Anka Motz
+ *
+ */
 public class ListaDeLaCompra {
 
 	private String nombreDeLaLista;

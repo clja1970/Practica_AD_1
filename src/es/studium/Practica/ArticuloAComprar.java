@@ -1,5 +1,9 @@
 package es.studium.Practica;
 
+/**
+ * @author clja1 Anka Motz
+ *
+ */
 public class ArticuloAComprar {
 
 	private String descripcion;
