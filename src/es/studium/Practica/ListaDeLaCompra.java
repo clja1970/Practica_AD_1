@@ -7,8 +7,9 @@ import java.util.ArrayList;
 import java.util.List;
 
 
+
 /**
- * @author clja1 Anka Motz
+ * @author clja1
  *
  */
 public class ListaDeLaCompra {
